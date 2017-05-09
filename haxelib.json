@@ -8,6 +8,6 @@
   "version": "0.2.0",
   "releasenote": "Update to typecrawler's new API",
   "dependencies": {
-	  "tink_typecrawler":""
+	  "tink_typecrawler":"0.5.0"
   }
 }
